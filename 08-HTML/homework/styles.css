@@ -1,0 +1,21 @@
+h1 {
+    color: crimson
+}
+
+img {
+    width: 400px
+}
+
+#thirdDiv {
+    background-color: burlywood;
+    width: 500px;
+    height: 600px;
+    padding: 50px;
+    border: 14px groove chocolate;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+
+}
